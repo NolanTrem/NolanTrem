@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nolan Tremellin
+- 👋 Hi, I’m Nolan Tremelling
 - 👀 I’m interested in electrical engineering, IoT, and applications of machine learning
 - 🌱 I’m currently learning 
 - 💞️ I’m open to collaborate on anything—feel free to reach out!
