@@ -1,10 +1,15 @@
-- 👋 Hi, I’m Nolan Tremelling
-- 👀 I’m interested in electrical engineering, IoT, and applications of machine learning
-- 🌱 I’m currently learning 
-- 💞️ I’m open to collaborate on anything—feel free to reach out!
-- 📫 You can reach my contact information at http://www.nolantremelling.com/
+Hey, I'm Nolan Tremelling! I'm currently studying electrical engineering at Columbia University.
 
-<!---
-NolanTrem/NolanTrem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I have a lot of interests that I like to apply to my work… Primarily, though, I enjoy applying a wide range of techniques and skills to problems.
+I'm open to collaborate on projects, and you can find my contact information at http://www.nolantremelling.com/.
+
+- 👨‍💻 Current Projects…
+- 🏛 What I'm learning about…
+  - Intermediate German II
+  - Electronic Circuits
+  - Electronic Circuits Lab
+  - Fundamentals of Computer Science
+  - Digital Systems Lab
+  - Astronomy: From Babylon to the Big Bang
+  - Ordinary Differental Equations
+  - Introduction to Java
